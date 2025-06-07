@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="973eca61-ab5f-4061-8ea9-a23553f1e71b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/memorypolicy/ScCore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/memorypolicy/EscCore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/memorypolicy/FifoCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memorypolicy/FifoCore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/memorypolicy/Form1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memorypolicy/Form1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/memorypolicy/LfuCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memorypolicy/LfuCore.java" afterDir="false" />
-    </list>
+    <list default="true" id="973eca61-ab5f-4061-8ea9-a23553f1e71b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -52,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/chamingyeong/Public/GitHub/OS",
+    "last_opened_file_path": "/Users/chamingyeong/GitHub/OS/OS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,6 +79,7 @@
       <workItem from="1748679746096" duration="215000" />
       <workItem from="1748679976139" duration="12910000" />
       <workItem from="1748703357318" duration="9774000" />
+      <workItem from="1749300587264" duration="1093000" />
     </task>
     <servers />
   </component>

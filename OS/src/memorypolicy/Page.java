@@ -2,6 +2,7 @@ package memorypolicy;
 
 public class Page {
     public static int CREATE_ID = 0;
+//    고유한 pid를 부여하기 위한 정적 변수
 
     public enum STATUS {
         HIT,
